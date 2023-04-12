@@ -1,13 +1,13 @@
 #numpy>=1.14.5
 
-itkwidgets=0.32.0
-numpy=1.23.3
-pbr=5.4.2
-pip=21.2.4
-python=3.8.5
-scikit-image=0.19.2
-scipy=1.8.0
-setuptools=52.0.0
+itkwidgets==0.32.0
+numpy==1.23.3
+pbr==5.4.2
+pip==21.2.4
+python==3.8.5
+scikit-image==0.19.2
+scipy==1.8.0
+setuptools==52.0.0
 #simpleitk=2.0.2
 #vtk=9.0.1
 #  - pip:
